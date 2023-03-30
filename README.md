@@ -12,6 +12,11 @@ This project is created using **React** version ^18.2.0
 - Components - Contains all nav Components
 - Constants - Contains all hardcoded data in the webpage
 
+## Note - This is still a development build
+## For Production build follow the steps
+- npm run build
+- npm serve
+
 
 ### About
 In case of any queries please react out to **gowrishankarvm99@gmail.com**
